@@ -4,7 +4,7 @@
 
 * Use ActiveRecord's AREL library to build optimized queries
 
-## Introduction
+## Introductions
 
 In programming, a good maxim is this:
 
